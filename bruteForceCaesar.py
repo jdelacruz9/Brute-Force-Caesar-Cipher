@@ -60,7 +60,3 @@ decaesar(makeOneLine(msg3))
 print "-----------------------------------------"
 print 
 
-# decaesar(makeOneLine(msgRicky))
-
-#5 1 7
-
