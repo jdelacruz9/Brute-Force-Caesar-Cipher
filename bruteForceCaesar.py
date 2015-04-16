@@ -1,4 +1,4 @@
-dictionary = open("/Users/Julio/Desktop/dict.txt", 'r')
+dictionary = open("dict.txt", 'r')
 dictionary = dictionary.read().split('\n')
 
 
